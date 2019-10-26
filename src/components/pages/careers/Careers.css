@@ -1,0 +1,44 @@
+.careers-card{
+    height:100%;
+    text-align: center;
+    display: table;
+    margin-top: 4rem;
+}
+.careers-card p{
+     color:gray;
+}
+.careers-card button{
+    bottom:0;
+    width: 90%;
+    display: table-cell; 
+    vertical-align: bottom;
+    border: none;
+    background-color: orange;
+    height: 4rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.careers-card ul li a{
+    
+    text-align: left;
+    color: orange;
+    border-bottom: 1px solid orange;
+    text-decoration: none;
+}
+.careers-card ul li{
+    
+    text-align: left;
+
+}
+.orange-button{
+        bottom:0;
+        width: 90%;
+        display: table-cell; 
+        vertical-align: bottom;
+        border: none;
+        background-color: orange;
+        height: 4rem;
+        font-size: 1rem;
+        font-weight: bold;
+    
+}

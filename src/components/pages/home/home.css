@@ -1,0 +1,21 @@
+.advert-card{
+    height:400px;
+    text-align: center;
+    display: table;
+    margin-top: 4rem;
+}
+.advert-card p{
+     color:gray;
+}
+.advert-card button{
+    position: absolute;
+    bottom:0;
+    width: 90%;
+    display: table-cell; 
+    vertical-align: bottom;
+    border: none;
+    background-color: orange;
+    height: 4rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
